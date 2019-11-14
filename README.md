@@ -1,5 +1,6 @@
 ## TOOLZ
 
+
 # The last tool sharing app you will ever use
 
 * Have a garage full of toolz collecting dust? Have a yard full of downed trees and no chainsaw? 
@@ -23,15 +24,10 @@ use your tools.
 ## Toolz App Contributors
 
 * [Trevor Brown](https://github.com/tr3vbr0w) - front-end css, category routes
-* [Tyler Ford](https://github.com/tylermorrisford) - front-end, layout, design, hadlebars
+* [Tyler Ford](https://github.com/tylermorrisford) - front-end layout, design, CSS, handlebars
 * [Dana Alexandrescu](https://github.com/danalittleskier) - back-end, travis ci, models, search routes
 * [Guillermo Villalta](https://github.com/mexcelus) - back-end, login, models, authentication routes
 
 ### GitHub Link
 
 https://github.com/danalittleskier/ProjectTwo
-
-
-
-
-
