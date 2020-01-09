@@ -7,7 +7,7 @@
 * Never fear, toolz is here. Founded in October of 2019, toolz is changing the way you complete home improvement tasks and 
 use your tools.
 
-![image]()
+![image](https://user-images.githubusercontent.com/49931992/72041571-2b70f780-3269-11ea-8d7c-f14fb81e7833.png)
 
 ## Overview
 
