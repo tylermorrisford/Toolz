@@ -7,6 +7,8 @@
 * Never fear, toolz is here. Founded in October of 2019, toolz is changing the way you complete home improvement tasks and 
 use your tools.
 
+![image]()
+
 ## Overview
 
 * The app allows a user to login and create tools for sharing, view a list of the tool marketplace, update tools they previously created, and delete tools they no longer have available for sharing. 
